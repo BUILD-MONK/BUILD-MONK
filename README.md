@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🧘‍♂️ BUILD MONK
 
-<!--
-**BUILD-MONK/BUILD-MONK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**From database to DOM — building systems and shaping self, mindfully.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hi, I'm **Sohan**, a full-stack developer who enjoys crafting clean, scalable software and a better self - growth through practice.
+I value calm focus, thoughtful systems, and intentional learning.
+
+* 🔭 Currently building: **Full Stack Projects.**
+* 🌱 Learning more about: **Clean and Scalable Architecture**, **Cloud etc**, 
+* 🛠️ Stack: `JavaScript`, `TypeScript`, `Spring Boot`, `Java`, `Angular`, `Kafka`, `PostgreSQL`, `Docker`, `Git`
+* 📢 Reach me at: **https://in.linkedin.com/in/sohandixit**
+
+---
+
+## 🧰 Tech Stack
+
+```plaintext
+💻 Languages:         JavaScript, TypeScript, Java
+🌐 Frontend:          Angular, React, Ionic, HTML5, CSS3, Tailwind, SCSS
+🛠  Backend:           Spring Boot, Node.js, Express
+📄 Databases:         PostgreSQL, MongoDB
+⚙️ DevOps & Tools:    Docker, Git, GitHub Actions, Postman
+🧪 Testing:           JUnit, Jest, Appium
+```
+
+---
+
+## 📦 Featured Projects
+
+| Project               | Description                                     | Stack                               |
+| --------------------- | ----------------------------------------------  | ----------------------------------- |
+| `Sorting Visulizer`   | Added the sorting algorithm working through UI  | Angular                             |
+
+> ✨ *See more at [github.com/build-monk?tab=repositories](https://github.com/build-monk?tab=repositories)*
+
+---
+
+## 🌐 Let's Connect
+
+* <a href="https://in.linkedin.com/in/sohandixit"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohan dixit" height="20" width="20"/></a>
+* 💬 DM-friendly: Open to collaboration and conversation
+
+---
