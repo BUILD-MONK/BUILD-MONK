@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Sohan**, a full-stack developer who enjoys crafting clean, scalable software and a better self - growth through practice.
+Hi, I'm **Sohan Dixit**, a full-stack developer who enjoys crafting clean, scalable software through practice.
 I value calm focus, thoughtful systems, and intentional learning.
 
 * 🔭 Currently building: **Full Stack Projects.**
@@ -36,6 +36,12 @@ I value calm focus, thoughtful systems, and intentional learning.
 | `Sorting Visulizer`   | Added the sorting algorithm working through UI  | Angular                             |
 
 > ✨ *See more at [github.com/build-monk?tab=repositories](https://github.com/build-monk?tab=repositories)*
+
+---
+
+## 🌐 Live Demo
+
+👉 **[Sorting-Algorithms-Visualizer-in-Angular](https://build-monk.github.io/Sorting-Algorithms-Visualizer-in-Angular/)**  
 
 ---
 
